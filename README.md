@@ -45,6 +45,10 @@ Assignment 1 (search_algo branch)
 
 IMPORTANT NOTE: The speed of PacMan animation might be too slow/fast depending on the processor. The normal speed in our computer can be seen in the videos where the link can be found below.
 
+https://www.youtube.com/watch?v=rpVqUkwRT1I
+
+
+
 Assignment 2 (main branch)
 
 1. It contains two scenes (Assets/Scenes/GhostMiniMap2, Assets/Scenes/MediumAdversarial)
@@ -56,3 +60,5 @@ Assignment 2 (main branch)
 8. One can press the play button to see the game running (to terminate running, one has to press again).
 
 IMPORTANT NOTE: The speed of PacMan/Ghost animation might be too slow/fast depending on the processor. The normal speed in our computer can be seen in the videos where the link can be found below.
+
+https://www.youtube.com/watch?v=rpVqUkwRT1I
